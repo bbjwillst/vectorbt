@@ -6,8 +6,8 @@ from utils.CollectEngine import CollectEngine as ce
 
 if __name__ == "__main__":
     # Save stock data to csv
-    #stocks = ce.Stocks()
-    #stocks.getFullDataByTime("600980", start="2022-05-01", end="2022-11-10")
+    # stocks = ce.Stocks()
+    # stocks.getFullDataByTime("600980", start="2022-05-01", end="2022-11-15")
 
     price_close = pd.read_csv("datas/600980.csv")[["close"]]
 
