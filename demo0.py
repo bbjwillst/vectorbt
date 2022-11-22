@@ -5,22 +5,16 @@ import vectorbt.indicators.factory
 import yfinance as yf
 
 
-btc_price = pd.read_csv("datas/BTCUSD.csv")[["Date", "Open", "High", "Low", "Close", "Volume"]]
-btc_price = btc_price.set_index("Date")
+price_close = pd.read_csv("datas/600980.csv")[["close"]]
 
-price = btc_price.get("Close")
-
-fast_ma: vectorbt.indicators.factory = vbt.MA.run(price, 20)
-slow_ma: vectorbt.indicators.factory = vbt.MA.run(price, 60)
+windows = np.arange(2, 101)
+fast_ma, slow_ma = vbt.MA.run_combs(price_close, window=windows, r=2, short_names=['fast', 'slow'])
 entries = fast_ma.ma_crossed_above(slow_ma)
 exits = fast_ma.ma_crossed_below(slow_ma)
 
-pf = vbt.Portfolio.from_signals(price, entries, exits, init_cash=100)
-print(pf.total_profit())
+pf_kwargs = dict(size=np.inf, fees=0.0005, freq='1D')
+pf = vbt.Portfolio.from_signals(price_close, entries, exits, **pf_kwargs)
 
-
-# entries = rsi.rsi_crossed_below(20)
-# exits = rsi.rsi_crossed_above(80)
-#
-# pf = vbt.Portfolio.from_signals(btc_price, entries, exits, init_cash=100)
-# print(pf.stats())
+fig = pf.total_return().vbt.heatmap(x_level='fast_window', y_level='slow_window', slider_level='symbol',
+                                    symmetric=True, trace_kwargs=dict(colorbar=dict(title='Total return', tickformat='%')))
+fig.show()
