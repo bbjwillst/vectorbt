@@ -3,7 +3,7 @@ import pandas as pd
 import vectorbt as vbt
 
 
-price_close = pd.read_csv("../../datas/600980.csv")['close']
+price_close = pd.read_csv("../datas/600980.csv")['close']
 
 rsi = vbt.RSI.run(price_close, window=20, short_name='rsi')
 

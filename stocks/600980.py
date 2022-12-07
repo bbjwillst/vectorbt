@@ -5,14 +5,14 @@ import vectorbt as vbt
 
 
 if __name__ == "__main__":
-    price_close = pd.read_csv("../../datas/600980.csv")[["close"]]
+    price_close = pd.read_csv("../datas/600980.csv")[["close"]]
 
     num = 25
     fast_ma_window = np.linspace(5, 30, num, dtype=int)
     slow_ma_window = np.linspace(15, 40, num, dtype=int)
     grid = np.array(np.meshgrid(fast_ma_window, slow_ma_window)).T.reshape(-1, 2)
 
-    f = open('1.txt', 'a')
+    f = open('../logs/600980.txt', 'a')
 
     for _ in grid:
         fast_ma = vbt.MA.run(price_close, _[0])
