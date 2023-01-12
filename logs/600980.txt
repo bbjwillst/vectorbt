@@ -1,0 +1,2700 @@
+ma_window  ma_window       
+5          15         close    0.06802
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          16         close    0.180699
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          17         close    0.156841
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          18         close    0.10975
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          19         close    0.199496
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          20         close    0.205982
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          21         close    0.240761
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          22         close    0.368995
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          23         close    0.40238
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          24         close    0.381392
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          25         close    0.377071
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          26         close    0.377071
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          27         close    0.377071
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          28         close    0.37895
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          29         close    0.370061
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          30         close    0.417178
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          31         close    0.447313
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          32         close    0.419845
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          33         close    0.419845
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          34         close    0.369316
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          35         close    0.379906
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          36         close    0.374416
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          37         close    0.437587
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          38         close    0.417577
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          39         close    0.386541
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          40         close    0.33238
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          41         close    0.289459
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          42         close    0.273554
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          43         close    0.257006
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+5          45         close    0.2369
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          15         close   -0.042815
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          16         close   -0.016014
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          17         close    0.067482
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          18         close    0.079888
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          19         close    0.142767
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          20         close    0.122904
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          21         close    0.216514
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          22         close    0.329591
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          23         close    0.337542
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          24         close    0.349534
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          25         close    0.41822
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          26         close    0.466396
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          27         close    0.466401
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          28         close    0.466401
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          29         close    0.489345
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          30         close    0.438552
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          31         close    0.509723
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          32         close    0.498055
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          33         close    0.439945
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          34         close    0.439945
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          35         close    0.439945
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          36         close    0.480173
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          37         close    0.39576
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          38         close    0.350797
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          39         close    0.336342
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          40         close    0.336342
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          41         close    0.284141
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          42         close    0.297087
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          43         close    0.286847
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+6          45         close    0.233094
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          15         close   -0.027705
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          16         close    0.02598
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          17         close    0.095137
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          18         close    0.187625
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          19         close    0.322458
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          20         close    0.320789
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          21         close    0.298419
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          22         close    0.327784
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          23         close    0.347701
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          24         close    0.383754
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          25         close    0.524419
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          26         close    0.526498
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          27         close    0.525605
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          28         close    0.537403
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          29         close    0.501399
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          30         close    0.526284
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          31         close    0.479042
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          32         close    0.465747
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          33         close    0.383778
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          34         close    0.442515
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          35         close    0.432585
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          36         close    0.432585
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          37         close    0.417254
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          38         close    0.336342
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          39         close    0.349814
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          40         close    0.300653
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          41         close    0.300653
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          42         close    0.300653
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          43         close    0.300653
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+7          45         close    0.277062
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          15         close    0.055771
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          16         close    0.13594
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          17         close    0.245093
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          18         close    0.24835
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          19         close    0.332735
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          20         close    0.304958
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          21         close    0.240354
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          22         close    0.30678
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          23         close    0.404936
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          24         close    0.435168
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          25         close    0.563896
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          26         close    0.601175
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          27         close    0.498627
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          28         close    0.45035
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          29         close    0.470179
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          30         close    0.470179
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          31         close    0.502779
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          32         close    0.4827
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          33         close    0.411405
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          34         close    0.411405
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          35         close    0.33241
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          36         close    0.33241
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          37         close    0.33241
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          38         close    0.321778
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          39         close    0.321778
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          40         close    0.321778
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          41         close    0.300653
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          42         close    0.342511
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          43         close    0.342511
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+8          45         close    0.350397
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          15         close    0.017856
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          16         close    0.048068
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          17         close    0.128249
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          18         close    0.297469
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          19         close    0.363478
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          20         close    0.298634
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          21         close    0.298634
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          22         close    0.336577
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          23         close    0.441028
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          24         close    0.39747
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          25         close    0.516176
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          26         close    0.516176
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          27         close    0.470179
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          28         close    0.517334
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          29         close    0.502779
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          30         close    0.485913
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          31         close    0.431326
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          32         close    0.471964
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          33         close    0.448535
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          34         close    0.326588
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          35         close    0.341646
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          36         close    0.280363
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          37         close    0.277729
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          38         close    0.29061
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          39         close    0.29061
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          40         close    0.353545
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          41         close    0.353545
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          42         close    0.372329
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          43         close    0.372329
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+9          45         close    0.339307
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         15         close    0.077831
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         16         close    0.156375
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         17         close    0.270344
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         18         close    0.341861
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         19         close    0.391583
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         20         close    0.50579
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         21         close    0.382929
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         22         close    0.422662
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         23         close    0.460198
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         24         close    0.487303
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         25         close    0.565722
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         26         close    0.517334
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         27         close    0.521505
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         28         close    0.454357
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         29         close    0.454357
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         30         close    0.471964
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         31         close    0.471964
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         32         close    0.448535
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         33         close    0.381577
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         34         close    0.272145
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         35         close    0.272145
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         36         close    0.263388
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         37         close    0.263388
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         38         close    0.276126
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         39         close    0.287926
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         40         close    0.332116
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         41         close    0.364254
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         42         close    0.310423
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         43         close    0.310423
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+10         45         close    0.328369
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         15         close    0.154801
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         16         close    0.206835
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         17         close    0.31553
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         18         close    0.396761
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         19         close    0.393702
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         20         close    0.313947
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         21         close    0.357574
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         22         close    0.365693
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         23         close    0.402694
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         24         close    0.402564
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         25         close    0.49573
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         26         close    0.519923
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         27         close    0.454357
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         28         close    0.440852
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         29         close    0.431208
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         30         close    0.389088
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         31         close    0.354982
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         32         close    0.354982
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         33         close    0.298375
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         34         close    0.298375
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         35         close    0.298375
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         36         close    0.283638
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         37         close    0.270793
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         38         close    0.260761
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         39         close    0.273471
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         40         close    0.317165
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         41         close    0.256319
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         42         close    0.31346
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         43         close    0.31346
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+11         45         close    0.354018
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         15         close    0.207142
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         16         close    0.276323
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         17         close    0.230295
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         18         close    0.302262
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         19         close    0.371519
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         20         close    0.335148
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         21         close    0.342338
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         22         close    0.354077
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         23         close    0.371117
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         24         close    0.392628
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         25         close    0.49573
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         26         close    0.410341
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         27         close    0.47183
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         28         close    0.457712
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         29         close    0.417729
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         30         close    0.3585
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         31         close    0.298375
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         32         close    0.319185
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         33         close    0.299683
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         34         close    0.299683
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         35         close    0.286678
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         36         close    0.286756
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         37         close    0.247631
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         38         close    0.26021
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         39         close    0.26021
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         40         close    0.362734
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         41         close    0.340542
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         42         close    0.298545
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         43         close    0.338642
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+12         45         close    0.297332
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         15         close    0.092772
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         16         close    0.276233
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         17         close    0.276035
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         18         close    0.293715
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         19         close    0.337138
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         20         close    0.28723
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         21         close    0.266212
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         22         close    0.29214
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         23         close    0.340925
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         24         close    0.378906
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         25         close    0.445008
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         26         close    0.410341
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         27         close    0.35525
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         28         close    0.352915
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         29         close    0.369294
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         30         close    0.308692
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         31         close    0.295596
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         32         close    0.295596
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         33         close    0.27652
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         34         close    0.237707
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         35         close    0.237707
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         36         close    0.250185
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         37         close    0.250185
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         38         close    0.250185
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         39         close    0.336541
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         40         close    0.331286
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         41         close    0.363404
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         42         close    0.300166
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         43         close    0.324081
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+13         45         close    0.275727
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         15         close    0.241992
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         16         close    0.298304
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         17         close    0.365908
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         18         close    0.426545
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         19         close    0.296652
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         20         close    0.243029
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         21         close    0.282117
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         22         close    0.315592
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         23         close    0.315597
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         24         close    0.350595
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         25         close    0.421364
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         26         close    0.421364
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         27         close    0.355234
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         28         close    0.342234
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         29         close    0.344891
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         30         close    0.260611
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         31         close    0.260611
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         32         close    0.251934
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         33         close    0.251934
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         34         close    0.264555
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         35         close    0.264555
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         36         close    0.259583
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         37         close    0.301919
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         38         close    0.346589
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         39         close    0.346589
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         40         close    0.358244
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         41         close    0.3118
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         42         close    0.245721
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         43         close    0.322337
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+14         45         close    0.313986
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+15         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         16         close    0.240695
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         17         close    0.263653
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         18         close    0.303446
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         19         close    0.251819
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         20         close    0.254648
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         21         close    0.272766
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         22         close    0.317656
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         23         close    0.310424
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         24         close    0.251052
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         25         close    0.382277
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         26         close    0.349906
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         27         close    0.365422
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         28         close    0.298086
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         29         close    0.318987
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         30         close    0.260611
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         31         close    0.260611
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         32         close    0.256085
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         33         close    0.25434
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         34         close    0.25434
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         35         close    0.25434
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         36         close    0.297378
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         37         close    0.297378
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         38         close    0.27778
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         39         close    0.258911
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         40         close    0.258911
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         41         close    0.255104
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         42         close    0.308235
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         43         close    0.348734
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+15         45         close    0.271942
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         15         close   -0.185857
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+16         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         17         close    0.260948
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         18         close    0.301489
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         19         close    0.249861
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         20         close    0.136521
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         21         close    0.275343
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         22         close    0.281657
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         23         close    0.246814
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         24         close    0.248675
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         25         close    0.349906
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         26         close    0.365422
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         27         close    0.298086
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         28         close    0.298086
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         29         close    0.265789
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         30         close    0.250428
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         31         close    0.24182
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         32         close    0.216393
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         33         close    0.235393
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         34         close    0.235393
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         35         close    0.25781
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         36         close    0.25781
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         37         close    0.25781
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         38         close    0.288155
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         39         close    0.237327
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         40         close    0.260425
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         41         close    0.255565
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         42         close    0.266557
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         43         close    0.266557
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+16         45         close    0.265527
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         15         close   -0.151218
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         16         close   -0.182751
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+17         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         18         close    0.152183
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         19         close    0.123647
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         20         close    0.197431
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         21         close    0.164718
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         22         close    0.31282
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         23         close    0.241931
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         24         close    0.232032
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         25         close    0.216854
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         26         close    0.293002
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         27         close    0.245749
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         28         close    0.260831
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         29         close    0.303209
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         30         close    0.245531
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         31         close    0.265691
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         32         close    0.246572
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         33         close    0.216085
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         34         close    0.216085
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         35         close    0.25781
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         36         close    0.342684
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         37         close    0.268992
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         38         close    0.21422
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         39         close    0.21422
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         40         close    0.270631
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         41         close    0.281755
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         42         close    0.281755
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         43         close    0.261253
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+17         45         close    0.222969
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         15         close   -0.143549
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         16         close   -0.149536
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         17         close   -0.076997
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+18         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         19         close    0.09594
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         20         close    0.223486
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         21         close    0.26113
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         22         close    0.223954
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         23         close    0.221769
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         24         close    0.162932
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         25         close    0.141298
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         26         close    0.283233
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         27         close    0.246994
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         28         close    0.288906
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         29         close    0.288906
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         30         close    0.241436
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         31         close    0.203947
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         32         close    0.203947
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         33         close    0.211288
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         34         close    0.252848
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         35         close    0.239099
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         36         close    0.264099
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         37         close    0.183489
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         38         close    0.183489
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         39         close    0.183489
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         40         close    0.22485
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         41         close    0.23361
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         42         close    0.207281
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         43         close    0.207281
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+18         45         close    0.291552
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         15         close   -0.079705
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         16         close   -0.096516
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         17         close   -0.044782
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         18         close   -0.079486
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+19         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         20         close    0.237138
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         21         close    0.256095
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         22         close    0.248854
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         23         close    0.221009
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         24         close    0.189654
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         25         close    0.138434
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         26         close    0.309202
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         27         close    0.298125
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         28         close    0.288906
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         29         close    0.241436
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         30         close    0.198987
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         31         close    0.13787
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         32         close    0.186037
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         33         close    0.197995
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         34         close    0.203081
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         35         close    0.203081
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         36         close    0.257988
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         37         close    0.20835
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         38         close    0.259523
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         39         close    0.252678
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         40         close    0.232641
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         41         close    0.232641
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         42         close    0.207281
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         43         close    0.197448
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+19         45         close    0.297549
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         15         close   -0.025
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         16         close   -0.01706
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         17         close   -0.085533
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         18         close   -0.127435
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         19         close   -0.15865
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+20         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         21         close    0.081125
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         22         close    0.16217
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         23         close    0.19196
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         24         close    0.262108
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         25         close    0.349137
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         26         close    0.262131
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         27         close    0.303686
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         28         close    0.262516
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         29         close    0.207562
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         30         close    0.19925
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         31         close    0.189914
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         32         close    0.163172
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         33         close    0.163172
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         34         close    0.228353
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         35         close    0.251151
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         36         close    0.210378
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         37         close    0.210378
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         38         close    0.254065
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         39         close    0.234006
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         40         close    0.247798
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         41         close    0.305265
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         42         close    0.303822
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         43         close    0.276997
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+20         45         close    0.28517
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         15         close   -0.068005
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         16         close   -0.069888
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         17         close   -0.02148
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         18         close   -0.128277
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         19         close   -0.13753
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         20         close   -0.026119
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+21         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         22         close    0.119397
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         23         close    0.190296
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         24         close    0.251493
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         25         close    0.271052
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         26         close    0.318258
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         27         close    0.259914
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         28         close    0.336292
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         29         close    0.270111
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         30         close    0.19675
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         31         close    0.187374
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         32         close    0.172705
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         33         close    0.187606
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         34         close    0.221677
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         35         close    0.260099
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         36         close    0.211718
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         37         close    0.277932
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         38         close    0.337375
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         39         close    0.308416
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         40         close    0.300756
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         41         close    0.300756
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         42         close    0.305908
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         43         close    0.317363
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+21         45         close    0.264806
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         15         close   -0.052869
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         16         close   -0.07447
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         17         close   -0.09644
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         18         close   -0.046257
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         19         close   -0.104784
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         20         close   -0.085635
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         21         close   -0.087919
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+22         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         23         close    0.142881
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         24         close    0.136232
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         25         close    0.135181
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         26         close    0.238686
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         27         close    0.341584
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         28         close    0.35226
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         29         close    0.235799
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         30         close    0.179571
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         31         close    0.195174
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         32         close    0.211614
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         33         close    0.240091
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         34         close    0.235234
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         35         close    0.32098
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         36         close    0.277932
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         37         close    0.310445
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         38         close    0.325091
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         39         close    0.31481
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         40         close    0.332814
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         41         close    0.328792
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         42         close    0.345994
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         43         close    0.345994
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+22         45         close    0.243114
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         15         close   -0.050965
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         16         close   -0.048606
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         17         close   -0.044865
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         18         close   -0.02525
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         19         close   -0.050239
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         20         close   -0.053358
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         21         close   -0.085591
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         22         close   -0.120875
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+23         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         24         close    0.13251
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         25         close    0.145101
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         26         close    0.295277
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         27         close    0.315474
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         28         close    0.256415
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         29         close    0.251452
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         30         close    0.192653
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         31         close    0.180237
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         32         close    0.205029
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         33         close    0.240091
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         34         close    0.335639
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         35         close    0.327958
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         36         close    0.257202
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         37         close    0.321414
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         38         close    0.330761
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         39         close    0.347988
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         40         close    0.328491
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         41         close    0.296979
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         42         close    0.267027
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         43         close    0.267027
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+23         45         close    0.33404
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         15         close   -0.032097
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         16         close   -0.030255
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         17         close   -0.017155
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         18         close    0.041245
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         19         close    0.034384
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         20         close   -0.059574
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         21         close   -0.094812
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         22         close   -0.048375
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         23         close   -0.102617
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+24         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         25         close    0.118856
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         26         close    0.203444
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         27         close    0.150606
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         28         close    0.240103
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         29         close    0.204246
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         30         close    0.216387
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         31         close    0.202024
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         32         close    0.244986
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         33         close    0.301773
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         34         close    0.333179
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         35         close    0.271153
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         36         close    0.267726
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         37         close    0.327947
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         38         close    0.311783
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         39         close    0.295773
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         40         close    0.329579
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         41         close    0.33704
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         42         close    0.255935
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         43         close    0.27019
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+24         45         close    0.303747
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         15         close   -0.088233
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         16         close   -0.051208
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         17         close    0.011263
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         18         close    0.078211
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         19         close    0.080923
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         20         close   -0.095844
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         21         close   -0.051028
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         22         close    0.020892
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         23         close   -0.038566
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         24         close   -0.058916
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+25         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         26         close    0.145227
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         27         close    0.121879
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         28         close    0.185472
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         29         close    0.21166
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         30         close    0.232659
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         31         close    0.269111
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         32         close    0.301392
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         33         close    0.328574
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         34         close    0.328574
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         35         close    0.281793
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         36         close    0.345137
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         37         close    0.32364
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         38         close    0.284544
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         39         close    0.324334
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         40         close    0.280554
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         41         close    0.311472
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         42         close    0.27158
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         43         close    0.245892
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+25         45         close    0.278662
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         15         close   -0.051208
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         16         close   -0.061989
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         17         close   -0.009452
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         18         close   -0.030205
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         19         close   -0.049442
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         20         close   -0.013991
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         21         close   -0.056604
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         22         close   -0.034723
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         23         close   -0.113091
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         24         close   -0.045412
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         25         close   -0.059718
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+26         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         27         close    0.079662
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         28         close    0.108391
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         29         close    0.227164
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         30         close    0.232993
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         31         close    0.251084
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         32         close    0.238999
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         33         close    0.355948
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         34         close    0.314137
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         35         close    0.314137
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         36         close    0.345137
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         37         close    0.275422
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         38         close    0.312858
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         39         close    0.270232
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         40         close    0.295089
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         41         close    0.275345
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         42         close    0.2274
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         43         close    0.299104
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+26         45         close    0.195461
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         15         close   -0.061989
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         16         close   -0.013332
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         17         close    0.019156
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         18         close    0.018139
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         19         close   -0.022619
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         20         close   -0.04606
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         21         close   -0.012917
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         22         close   -0.074248
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         23         close   -0.091677
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         24         close   -0.002245
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         25         close    0.023304
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         26         close    0.016174
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+27         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         28         close    0.133045
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         29         close    0.172164
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         30         close    0.229233
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         31         close    0.223831
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         32         close    0.289381
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         33         close    0.355948
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         34         close    0.266283
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         35         close    0.266283
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         36         close    0.296154
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         37         close    0.236991
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         38         close    0.271622
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         39         close    0.30043
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         40         close    0.296506
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         41         close    0.216868
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         42         close    0.226625
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         43         close    0.301239
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+27         45         close    0.235207
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         15         close   -0.021934
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         16         close   -0.021934
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         17         close    0.006965
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         18         close   -0.015629
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         19         close   -0.015629
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         20         close   -0.016271
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         21         close   -0.070582
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         22         close   -0.081557
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         23         close   -0.041969
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         24         close   -0.037762
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         25         close   -0.01335
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         26         close    0.03437
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         27         close   -0.022579
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+28         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         29         close    0.213467
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         30         close    0.188569
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         31         close    0.280325
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         32         close    0.332607
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         33         close    0.271262
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         34         close    0.266283
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         35         close    0.284807
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         36         close    0.26564
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         37         close    0.274692
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         38         close    0.286056
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         39         close    0.296506
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         40         close    0.25146
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         41         close    0.228641
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         42         close    0.228641
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         43         close    0.278545
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+28         45         close    0.254371
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         15         close   -0.037433
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         16         close    0.002349
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         17         close   -0.026432
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         18         close   -0.015629
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         19         close    0.020643
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         20         close    0.049274
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         21         close   -0.033155
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         22         close   -0.00631
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         23         close   -0.01874
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         24         close    0.017705
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         25         close   -0.006582
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         26         close   -0.038556
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         27         close   -0.032911
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         28         close   -0.085511
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+29         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         30         close    0.035648
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         31         close    0.194758
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         32         close    0.204339
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         33         close    0.273201
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         34         close    0.300486
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         35         close    0.286213
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         36         close    0.280006
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         37         close    0.270026
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         38         close    0.243413
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         39         close    0.253517
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         40         close    0.21406
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         41         close    0.228641
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         42         close    0.278545
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         43         close    0.221007
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+29         45         close    0.170725
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         15         close    0.006466
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         16         close    0.014662
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         17         close    0.017288
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         18         close    0.020643
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         19         close    0.056778
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         20         close    0.04466
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         21         close    0.026113
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         22         close    0.038994
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         23         close    0.027598
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         24         close    0.007547
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         25         close    0.000193
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         26         close   -0.025705
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         27         close   -0.022724
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         28         close   -0.048149
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         29         close    0.08913
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+30         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         31         close    0.262546
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         32         close    0.229584
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         33         close    0.321368
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         34         close    0.300486
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         35         close    0.296337
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         36         close    0.26308
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         37         close    0.243413
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         38         close    0.267392
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         39         close    0.263568
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         40         close    0.166137
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         41         close    0.152886
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         42         close    0.221007
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         43         close    0.222814
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+30         45         close    0.144694
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         15         close    0.005119
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         16         close    0.020328
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         17         close    0.001085
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         18         close    0.040584
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         19         close    0.101012
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         20         close    0.05077
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         21         close    0.032166
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         22         close    0.031563
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         23         close    0.044618
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         24         close    0.025684
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         25         close   -0.028536
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         26         close   -0.003948
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         27         close   -0.012541
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         28         close   -0.056112
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         29         close   -0.047417
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         30         close   -0.106918
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+31         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         32         close    0.231987
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         33         close    0.289839
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         34         close    0.270185
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         35         close    0.26308
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         36         close    0.234583
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         37         close    0.180158
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         38         close    0.199287
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         39         close    0.190355
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         40         close    0.152886
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         41         close    0.21053
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         42         close    0.210926
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         43         close    0.142419
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+31         45         close    0.104138
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         15         close    0.012128
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         16         close    0.007542
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         17         close    0.005003
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         18         close    0.038522
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         19         close    0.054205
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         20         close    0.074928
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         21         close    0.051327
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         22         close    0.017565
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         23         close    0.03412
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         24         close    0.021151
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         25         close   -0.042452
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         26         close    0.005767
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         27         close   -0.019707
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         28         close   -0.064882
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         29         close    0.014224
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         30         close   -0.045552
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         31         close   -0.052919
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+32         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         33         close    0.175771
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         34         close    0.08659
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         35         close    0.179024
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         36         close    0.187456
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         37         close    0.186031
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         38         close    0.185659
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         39         close    0.101582
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         40         close    0.143367
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         41         close    0.184
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         42         close    0.116484
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         43         close    0.116484
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+32         45         close    0.080314
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         15         close    0.028034
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         16         close    0.043802
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         17         close    0.034305
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         18         close    0.038401
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         19         close    0.049924
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         20         close    0.081356
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         21         close    0.059108
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         22         close    0.025182
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         23         close    0.025182
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         24         close   -0.009424
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         25         close   -0.029407
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         26         close   -0.049001
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         27         close   -0.049001
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         28         close    0.015734
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         29         close   -0.007249
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         30         close   -0.062379
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         31         close   -0.05848
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         32         close   -0.006283
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+33         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         34         close    0.104857
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         35         close    0.097742
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         36         close    0.133253
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         37         close    0.145919
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         38         close    0.072839
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         39         close    0.117943
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         40         close    0.117943
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         41         close    0.157121
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         42         close    0.174196
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         43         close    0.150292
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+33         45         close    0.063378
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         15         close    0.028034
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         16         close    0.026597
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         17         close    0.026597
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         18         close    0.0421
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         19         close    0.071835
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         20         close    0.030655
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         21         close    0.023336
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         22         close   -0.023827
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         23         close   -0.028956
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         24         close    0.015821
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         25         close    0.007389
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         26         close   -0.017406
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         27         close    0.071628
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         28         close    0.056177
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         29         close    0.055023
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         30         close    0.046784
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         31         close    0.074345
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         32         close    0.150939
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         33         close    0.211682
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         34         close    0.205491
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window       
+35         close    0.0
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         36         close    0.161872
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         37         close    0.082944
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         38         close    0.17971
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         39         close    0.192787
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         40         close    0.165709
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         41         close    0.177026
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         42         close    0.15281
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         43         close    0.089448
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
+ma_window  ma_window       
+35         45         close    0.042778
+Name: total_return, dtype: float64 <_io.TextIOWrapper name='logs/600980.txt' mode='a' encoding='cp936'>
