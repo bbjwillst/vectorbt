@@ -1,12 +1,21 @@
 import sys
+import os
 import pandas as pd
 import numpy as np
 import vectorbt as vbt
+from utils.FileExt import FileExt as fe
 
 
 class Strategy:
     class SMA:
         def __init__(self, stockid: str=''):
+            if not os.path.exists("datas/{}.csv".format(stockid)):
+                print("file datas/{}.csv doesn't exist.".format(stockid))
+                return
+
+            f= fe()
+            f.delete(filename=stockid, filetype='.txt', path='logs/')
+
             price_close = pd.read_csv("datas/{}.csv".format(stockid))[['close']]
 
             pairs = 30
@@ -26,12 +35,13 @@ class Strategy:
                 pf = vbt.Portfolio.from_signals(price_close, entries, exits, init_cash=100, fees=0.005)
                 sys.stdout = f
                 print(pf.total_return(), f)
-                print("================================================================")
 
             f.close()
 
     class OBV:
         def __init__(self, stockid: str=''):
             price_close = pd.read_csv("datas/{}.csv".format(stockid))[['close']]
+
+            pairs = 30
 
 
