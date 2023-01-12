@@ -36,5 +36,7 @@ class AnalyzeEngine:
 
         f = fe()
         f.delete(filename=filename, filetype='.xlsx', path='analyzed/')
-        df: pd.DataFrame = pd.DataFrame(log_lines)
-        df.to_excel("analyzed/{}.xlsx".format(filename), index=False, header=['fast', 'slow', 'retval'])
+        df: pd.DataFrame = pd.DataFrame(log_lines, columns=['fast', 'slow', 'retval'])
+
+        df = df.sort_values(by=['retval'], ascending=False)
+        df.to_excel("analyzed/{}.xlsx".format(filename), index=False)
