@@ -2,6 +2,7 @@ import os
 import pandas as pd
 from utils.FileExt import FileExt as fe
 
+
 class AnalyzeEngine:
     @staticmethod
     def totalreturn(filename='', filetype='.txt'):
@@ -34,12 +35,10 @@ class AnalyzeEngine:
                 lst.insert(1, lst[0])
                 log_lines.append(lst)
 
-
         for _ in log_lines:
             # fast < slow
             if _[0] < _[1]:
                 log_lines1.append(_)
-
 
         f = fe()
         f.delete(filename=filename, filetype='.xlsx', path='analyzed/')
