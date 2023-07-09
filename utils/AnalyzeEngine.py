@@ -1,12 +1,13 @@
 import os
 import pandas as pd
 from utils.FileExt import FileExt as fe
+from utils.GlobalPaths import g_log_path, g_analyzed_path
 
 
 class AnalyzeEngine:
     @staticmethod
     def totalreturn(filename='', filetype='.txt'):
-        path = 'logs/'
+        path = g_log_path
         log_lines = []
         log_lines1 = []
         fullname = path + filename + filetype
@@ -41,8 +42,8 @@ class AnalyzeEngine:
                 log_lines1.append(_)
 
         f = fe()
-        f.delete(filename=filename, filetype='.xlsx', path='analyzed/')
+        f.delete(filename=filename, filetype='.xlsx', path=g_analyzed_path)
         df: pd.DataFrame = pd.DataFrame(log_lines1, columns=['fast', 'slow', 'retval'])
 
         df = df.sort_values(by=['retval'], ascending=False)
-        df.to_excel("analyzed/{}.xlsx".format(filename), index=False)
+        df.to_excel(g_analyzed_path + "{}.xlsx".format(filename), index=False)
