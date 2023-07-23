@@ -6,14 +6,15 @@ import datetime
 
 if __name__ == "__main__":
     # Save stock data to csv
-    stockid = '516510'
+    stockid = '159992'
 
-    ce.Stocks.getfulldatabystockid(stockid)
-    st.SMA(stockid)
-    ae.totalreturn(stockid)
+    # ce.Stocks.getfulldatabystockid(stockid)
+    # st.SMA(stockid)
+    # # st.SMARSI(stockid)
+    # ae.totalreturn(stockid)
 
     # st.MA(stockid)
 
     # delete all files
-    # fe = FileExt.FileExt()
-    # fe.deleteallfiles()
+    fe = FileExt.FileExt()
+    fe.deleteallfiles()

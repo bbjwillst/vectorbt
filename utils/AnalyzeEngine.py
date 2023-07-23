@@ -2,11 +2,14 @@ import os
 import pandas as pd
 from utils.FileExt import FileExt as fe
 from utils.GlobalPaths import g_log_path, g_analyzed_path
+from utils.GlobalPaths import GlobalPathsCheck
 
 
 class AnalyzeEngine:
     @staticmethod
     def totalreturn(filename='', filetype='.txt'):
+        GlobalPathsCheck()
+
         path = g_log_path
         log_lines = []
         log_lines1 = []

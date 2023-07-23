@@ -1,16 +1,21 @@
 import datetime
+import os.path
+
 import pandas as pd
 import tushare as ts
 
 from stocks.datas import stock_dict
 from utils.FileExt import FileExt as fe
 from utils.GlobalPaths import g_data_path
+from utils.GlobalPaths import GlobalPathsCheck
 
 
 class CollectEngine:
     class Stocks:
         @staticmethod
         def getfulldata(stock_id=""):
+            GlobalPathsCheck()
+
             if stock_id in stock_dict:
                 f = fe()
                 f.delete(stock_id)
@@ -22,10 +27,13 @@ class CollectEngine:
 
         @staticmethod
         def getfulldatabystockid(stock_id: str):
+            GlobalPathsCheck()
+
             if stock_id in stock_dict:
                 start = stock_dict[stock_id]
                 f = fe()
                 f.delete(stock_id)
+
                 df: pd.DataFrame = ts.get_hist_data(stock_id, start=start, end=str(datetime.date.today()), ktype='D')
                 df.to_csv(g_data_path + "{}.csv".format(stock_id))
             else:
@@ -34,6 +42,8 @@ class CollectEngine:
 
         @staticmethod
         def getfulldatabytime(stock_id="", start="", end="", ktype='D'):
+            GlobalPathsCheck()
+
             if stock_id in stock_dict:
                 f = fe()
                 f.delete(stock_id)
@@ -45,6 +55,11 @@ class CollectEngine:
 
         @staticmethod
         def getohlcvdatabystockid(stock_id: str):
+            GlobalPathsCheck()
+
+            if not os.path.exists(g_data_path):
+                os.makedirs(g_data_path)
+
             if stock_id not in stock_dict:
                 print(f"【{stock_id}】 is not in the datas.py file!")
                 return
